@@ -15,11 +15,11 @@
 ---
 
 ### 🚀 Featured projects
-- **[portfolio](https://github.com/You978suf/portfolio)** — my personal portfolio site.
-- **[ad-manager-prototype](https://github.com/You978suf/ad-manager-prototype)** — static web prototype of an Active Directory management portal.
-- **[intro-to-ai](https://github.com/You978suf/intro-to-ai)** — AI algorithms: search (BFS/DFS), minimax, backtracking.
-- **[java-oop](https://github.com/You978suf/java-oop)** — object-oriented programming exercises in Java.
-- **[ScientificCalculator](https://github.com/You978suf/ScientificCalculator)** — command-line scientific calculator in Java.
+- **[portfolio](https://github.com/You978suf/portfolio)** my personal portfolio site.
+- **[ad-manager-prototype](https://github.com/You978suf/ad-manager-prototype)** static web prototype of an Active Directory management portal.
+- **[intro-to-ai](https://github.com/You978suf/intro-to-ai)** AI algorithms: search (BFS/DFS), minimax, backtracking.
+- **[java-oop](https://github.com/You978suf/java-oop)** object-oriented programming exercises in Java.
+- **[ScientificCalculator](https://github.com/You978suf/ScientificCalculator)** command-line scientific calculator in Java.
 
 ---
 

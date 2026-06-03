@@ -15,7 +15,7 @@
 
 ### 👨‍💻 About me
 
-I build practical solutions across **AI/ML, data, and web development** - mainly in **Python** and **Java**. I enjoy turning research into working software: fine-tuning deep-learning models, building full-stack web apps, and shipping things people can actually use. I recently completed my Final Year Project on **Omani Sign Language translation**.
+I build practical solutions across **AI/ML, data, and web development**, mainly in **Python** and **Java**. I enjoy turning research into working software: fine-tuning deep-learning models, building full-stack web apps, and shipping things people can actually use. I recently completed my Final Year Project on **Omani Sign Language translation**.
 
 ---
 
@@ -27,7 +27,7 @@ I build practical solutions across **AI/ML, data, and web development** - mainly
 | **🚗 [Omani License Plate Recognition](https://github.com/You978suf/omani-license-plate-recognition)** | Deep-learning ALPR that reads Arabic-script Omani plates. Improved a CRNN pipeline with a **BiLSTM + CTC** architecture for higher accuracy. | PyTorch · CRNN · BiLSTM · OpenCV |
 | **🤝 Silah** | Web platform connecting entrepreneurs with investors & mentors. | Web · Full-stack |
 | **🖥️ [ad-manager-prototype](https://github.com/You978suf/ad-manager-prototype)** | Multi-page web prototype of an Active Directory management portal. | HTML · CSS · JS |
-| **🧠 [intro-to-ai](https://github.com/You978suf/intro-to-ai)** | Classic AI algorithms - search (BFS/DFS), minimax, backtracking. | Python |
+| **🧠 [intro-to-ai](https://github.com/You978suf/intro-to-ai)** | Classic AI algorithms: search (BFS/DFS), minimax, backtracking. | Python |
 
 ---
 

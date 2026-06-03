@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yousufalshaaili/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:alshaili37@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:mr.yousufalshaaili@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
@@ -48,5 +48,5 @@ I build practical solutions across **AI/ML, data, and web development**, mainly 
 
 <h3 align="center">📫 Let's connect</h3>
 <p align="center">
-  📧 alshaili37@gmail.com &nbsp;|&nbsp; 💼 <a href="https://www.linkedin.com/in/yousufalshaaili/">LinkedIn</a>
+  📧 mr.yousufalshaaili@gmail.com &nbsp;|&nbsp; 💼 <a href="https://www.linkedin.com/in/yousufalshaaili/">LinkedIn</a>
 </p>

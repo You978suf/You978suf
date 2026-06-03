@@ -46,15 +46,6 @@ I build practical solutions across **AI/ML, data, and web development**, mainly 
 
 ---
 
-### 📊 GitHub stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=You978suf&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=You978suf&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 <h3 align="center">📫 Let's connect</h3>
 <p align="center">
   📧 alshaili37@gmail.com &nbsp;|&nbsp; 💼 <a href="https://www.linkedin.com/in/yousufalshaaili/">LinkedIn</a>

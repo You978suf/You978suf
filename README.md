@@ -25,7 +25,7 @@ I build practical solutions across **AI/ML, data, and web development**, mainly 
 |---|---|---|
 | **🧏 [UniSign / JISSR-OM](https://github.com/You978suf/OSLT)** | Omani Sign Language → text translation. Fine-tuned **Uni-Sign** (ICLR 2025) on a custom **10,356-video** OSL dataset; 73% interpreter-validated. *(Final Year Project)* | PyTorch · RTMPose · Flask · MySQL |
 | **🚗 [Omani License Plate Recognition](https://github.com/You978suf/omani-license-plate-recognition)** | Deep-learning ALPR that reads Arabic-script Omani plates. Improved a CRNN pipeline with a **BiLSTM + CTC** architecture for higher accuracy. | PyTorch · CRNN · BiLSTM · OpenCV |
-| **🤝 Silah** | Web platform connecting entrepreneurs with investors & mentors. | Web · Full-stack |
+| **🤝 [Silah](https://github.com/You978suf/silah)** | Web platform connecting entrepreneurs with investors & mentors. | Web · Full-stack |
 | **🖥️ [ad-manager-prototype](https://github.com/You978suf/ad-manager-prototype)** | Multi-page web prototype of an Active Directory management portal. | HTML · CSS · JS |
 | **🧠 [intro-to-ai](https://github.com/You978suf/intro-to-ai)** | Classic AI algorithms: search (BFS/DFS), minimax, backtracking. | Python |
 
